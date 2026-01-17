@@ -1,0 +1,27 @@
+## Interface: 110000
+## Title: BANRUOUI 主题调度器
+## Notes: 主题切换器（主题包=独立插件）
+## Author: BANRUO
+## Version: v2.5.15
+## SavedVariables: BanruoUIDB
+
+
+Core/Bootstrap.lua
+Core/Locale.lua
+Locales/zhCN.lua
+Locales/enUS.lua
+Core/Registry.lua
+Adapters/WeakAuras.lua
+Modules/Registry.lua
+Modules/LangSwitch.lua
+Modules/ThemePreview.lua
+Modules/ElementSwitch/Container.lua
+Modules/ElementSwitch/Sub_DynamicPortraitFrame.lua
+Modules/ElementSwitch/Sub_Minimap.lua
+Modules/ElementSwitch/Sub_ActionBar.lua
+Modules/ElementSwitch/Sub_MiscDecorations.lua
+Modules/Placeholder.lua
+Modules/ElvuiString.lua
+Core/Init.lua
+Core/Frame.lua
+Core/Main.lua
