@@ -1,0 +1,115 @@
+## Interface: 110205
+## Title: BrAuras Options
+## Author: The BrAuras Team
+## Version: 5.20.7
+## IconTexture: Interface\AddOns\BrAuras\Media\Textures\icon.blp
+## Notes: Options for BrAuras
+## Notes-esES: Opciones para BrAuras
+## Notes-esMX: Opciones para BrAuras
+## Notes-deDE: Optionen für BrAuras
+## Notes-ruRU: Опции BrAuras
+## Notes-zhTW: BrAuras的設定
+## X-Category: Interface Enhancements
+## Globe-Main: BrAuras
+## DefaultState: Enabled
+## LoadOnDemand: 1
+## Dependencies: BrAuras
+## SavedVariables: BrAurasOptionsSaved
+
+embeds.xml
+locales.xml
+
+VersionCheck.lua
+ForAllIndentsAndPurposes.lua
+
+RegionOptions\Empty.lua
+RegionOptions\AuraBar.lua
+RegionOptions\Texture.lua
+RegionOptions\Icon.lua
+RegionOptions\Text.lua
+RegionOptions\Group.lua
+RegionOptions\DynamicGroup.lua
+RegionOptions\StopMotion.lua
+RegionOptions\Model.lua
+RegionOptions\ProgressTexture.lua
+
+SubRegionOptions\SubRegionCommon.lua
+SubRegionOptions\Background.lua
+SubRegionOptions\SubText.lua
+SubRegionOptions\Border.lua
+SubRegionOptions\Glow.lua
+SubRegionOptions\Tick.lua
+SubRegionOptions\Model.lua
+SubRegionOptions\StopMotion.lua
+SubRegionOptions\Texture.lua
+SubRegionOptions\CircularProgressTexture.lua
+SubRegionOptions\LinearProgressTexture.lua
+
+Cache.lua
+
+CommonOptions.lua
+GroupOptions.lua
+DisplayOptions.lua
+TriggerOptions.lua
+LoadOptions.lua
+ActionOptions.lua
+AnimationOptions.lua
+InformationOptions.lua
+
+BuffTrigger2.lua
+GenericTrigger.lua
+
+BrAurasOptions.lua
+ConditionOptions.lua
+AuthorOptions.lua
+
+Changelog.lua
+
+OptionsFrames\OptionsFrame.lua
+
+# Groups
+OptionsFrames\CodeReview.lua
+OptionsFrames\IconPicker.lua
+OptionsFrames\ImportExport.lua
+OptionsFrames\ModelPicker.lua
+OptionsFrames\TextEditor.lua
+OptionsFrames\TexturePicker.lua
+OptionsFrames\Update.lua
+OptionsFrames\DebugLogFrame.lua
+
+# Misc frames
+OptionsFrames\MoverSizer.lua
+OptionsFrames\FrameChooser.lua
+
+AceGUI-Widgets\AceGUIWidget-BrAurasExpand.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasExpandSmall.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasIcon.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasNewHeaderButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasLoadedHeaderButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasDisplayButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasDropDownItemCurrency.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasPendingInstallButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasPendingUpdateButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasTextureButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasIconButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasMultiLineEditBox.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasMultiLineEditBoxWithEnter.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasNewButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasImportButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasToolbarButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasTwoColumnDropDown.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasSnippetButton.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasAnchorButtons.lua
+AceGUI-Widgets\AceGUIContainer-BrAurasTreeGroup.lua
+AceGUI-Widgets\AceGUIContainer-BrAurasInlineGroup.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasExpandAnchor.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasSpacer.lua
+AceGUI-Widgets\AceGuiWidget-BrAurasProgressBar.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasSpinBox.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasMiniTalent_TWW.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasScrollArea.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasInput.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasInputFocus.lua
+AceGUI-Widgets\AceGUIWidget-BrAurasInputWithIndentation.lua
+AceGUI-Widgets\AceGuiWidget-BrAurasMediaSound.lua
+AceGUI-Widgets\BrAurasStatusbarAtlasWidget.lua

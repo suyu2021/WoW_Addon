@@ -1,0 +1,11 @@
+<Bindings>
+  <Binding name="BRAURASTOGGLE" Category="BINDING_HEADER_BRAURAS">
+    BrAuras.OpenOptions()
+  </Binding>
+  <Binding name="BRAURASPROFILINGTOGGLE" Category="BINDING_HEADER_BRAURAS">
+    BrAurasProfilingFrame:Toggle()
+  </Binding>
+  <Binding name="BRAURASPRINTPROFILING" Category="BINDING_HEADER_BRAURAS">
+    BrAuras.PrintProfile()
+  </Binding>
+</Bindings>
